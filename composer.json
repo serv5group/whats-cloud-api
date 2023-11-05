@@ -1,0 +1,18 @@
+{
+    "name": "serv5group/whatscloudapi",
+    "description": "whatsapp cloud\u001b[1;5D\u001b[1;5D\u001b[D\u001b[D\u001b[Dapi cloud depending on needbots\u001b[1;5D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dapp.needbots.com",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Serv5group\\Whatscloudapi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mohamed hesham",
+            "email": "mohamed.hesham@serv5.com"
+        }
+    ],
+    "require": {}
+}
