@@ -1,6 +1,6 @@
 <?php
 
-namespace serv5group\whatscloudapi;
+namespace Serv5group\Whatscloudapi;
 use Illuminate\Support\Facades\Http;
 
 /**
