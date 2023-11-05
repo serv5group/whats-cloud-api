@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Bll;
+namespace serv5group\whatscloudapi;
 use Illuminate\Support\Facades\Http;
 
 /**
