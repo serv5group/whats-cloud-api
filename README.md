@@ -1,5 +1,5 @@
 
-# Webcloud
+# WhatsCloudApi
 
 A library used with the Laravel framework to enable you to send WhatsApp messages as well as deal with bulk messages and get WhatsApp qrcode and login using OTP and other things.
 
