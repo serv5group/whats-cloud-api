@@ -6,7 +6,7 @@ A library used with the Laravel framework to enable you to send WhatsApp message
 
 ## Installation
 
-Install Webcloud with composer
+Install WhatsCloudApi with composer
 
 ```bash
 composer require serv5group/whatscloudapi
@@ -34,7 +34,7 @@ class Examples
 {
 
   /*
-  * Create Webcloud new instance
+  * Create WhatsCloudApi new instance
   * @return WebCloud
   */
   public function connect() 
