@@ -134,9 +134,4 @@ PHP , LARAVEL
 
 [MIT](https://upmap.org)
 
-
-## Authors
-
-- [@mohamed-hesham](https://github.com/medo172192)
-
-- [@upmap](https://upmap.org/)
+ 
