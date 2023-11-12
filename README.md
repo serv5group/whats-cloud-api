@@ -9,7 +9,7 @@ A library used with the Laravel framework to enable you to send WhatsApp message
 Install Webcloud with composer
 
 ```bash
-  composer require medo172192/webcloud
+composer require serv5group/whatscloudapi
 ```
     
 ## Support
@@ -28,8 +28,8 @@ Install Webcloud with composer
 ## Usage/Examples
 
 ```javascript
-use Medo172192\Webcloud\WebCloud;
-
+use serv5group\whatscloudapi\WebCloud;
+ 
 class Examples
 {
 
