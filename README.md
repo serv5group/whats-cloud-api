@@ -132,6 +132,6 @@ PHP , LARAVEL
 
 ## License
 
-[MIT](https://upmap.org)
+[MIT](https://serv5.com)
 
  
