@@ -14,8 +14,7 @@ composer require serv5group/whatscloudapi
     
 ## Support
 
-- you can dependent on app.needbots.com for get token and instance .
-- you can dependent on https://doc.stackposts.com/docs/waziper/modules/api for get token and instance .
+- you can dependent on[ app.needbots.com](https://app.needbots.com/) for get token and instance .
 
 
 ## Laravel env
