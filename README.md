@@ -20,7 +20,7 @@ composer require serv5group/whatscloudapi
 ## Laravel env
 
 ```bash
-  WHATSAPP_DOMAIN="https://app.needbots.com/"
+  WHATSAPP_DOMAIN="https://app.needbots.com/api"
 ```
 
 
