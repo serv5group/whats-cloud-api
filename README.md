@@ -15,6 +15,7 @@ composer require serv5group/whatscloudapi
 ## Support
 
 - you can dependent on[ app.needbots.com](https://app.needbots.com/) for get token and instance .
+- You must make sure that the phone number starts with 20. example 20101234576
 
 
 ## Laravel env
